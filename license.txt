@@ -380,5 +380,6 @@ WRITTEN OFFER
 
 The source code for any program binaries or compressed scripts that are
 included with WordPress can be freely obtained at the following URL:
+updated a small content
 
 	https://wordpress.org/download/source/
